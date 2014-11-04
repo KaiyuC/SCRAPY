@@ -1,0 +1,4 @@
+scrapy
+======
+
+THIS IS A EXAMPLE OF SCRAPY TO GRAB BAIDU NEWS !
